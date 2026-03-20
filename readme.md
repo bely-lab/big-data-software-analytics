@@ -40,11 +40,6 @@ The goal is to support better decision-making and optimize software development 
 - Apply advanced machine learning models
 - Integrate real-time analytics
 
-## Reference
-Research based on: *Big Data to Boost the Work of Software Development* :contentReference[oaicite:0]{index=0}
-
----
-
 ## 👨‍💻 Authors
 - Aemro Enyew
 - Belaynesh Mussie
