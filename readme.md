@@ -25,22 +25,22 @@ The goal is to support better decision-making and optimize software development 
 - Scikit-learn
 - Jupyter Notebook
 
-## 📂 Dataset
+## Dataset
 - Agile Scrum Velocity dataset (GitHub)
 - Distributed system log dataset (Kaggle)
 
-## 📈 Results
+## Results
 - Identified fluctuations in sprint productivity
 - Detected anomalies mainly in ERROR log levels
 - Found relationships between team size and performance
 - Achieved high accuracy in predictive maintenance model
 
-## 🚀 Future Improvements
+## Future Improvements
 - Use larger (true big data) datasets
 - Apply advanced machine learning models
 - Integrate real-time analytics
 
-## 📄 Reference
+## Reference
 Research based on: *Big Data to Boost the Work of Software Development* :contentReference[oaicite:0]{index=0}
 
 ---
