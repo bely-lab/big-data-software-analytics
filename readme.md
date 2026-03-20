@@ -2,7 +2,7 @@
 
 This project explores how big data analytics can improve software development processes using Agile Scrum velocity data and system log analysis.
 
-## 📌 Overview
+## Overview
 The study focuses on:
 - Analyzing Scrum velocity to understand team productivity
 - Detecting anomalies from system log data
@@ -11,14 +11,14 @@ The study focuses on:
 
 The goal is to support better decision-making and optimize software development workflows.
 
-## 📊 Key Features
+## Key Features
 - Sprint velocity trend and performance analysis
 - Team composition and productivity insights
 - Log-based anomaly detection (ERROR, WARNING, etc.)
 - User activity and suspicious behavior analysis
 - Predictive maintenance using Random Forest
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
