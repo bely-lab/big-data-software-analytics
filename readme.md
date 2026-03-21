@@ -40,7 +40,7 @@ The goal is to support better decision-making and optimize software development 
 - Apply advanced machine learning models
 - Integrate real-time analytics
 
-## 👨‍💻 Authors
+## Authors
 - Aemro Enyew
 - Belaynesh Mussie
 - Habtamu Adugna
