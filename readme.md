@@ -42,5 +42,5 @@ The goal is to support better decision-making and optimize software development 
 
 ## Authors
 - Aemro Enyew
-- Belaynesh Mussie
+- Belaynesh Kndie
 - Habtamu Adugna
