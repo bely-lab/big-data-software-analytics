@@ -9,7 +9,6 @@ The study focuses on:
 - Understanding user behavior patterns
 - Applying machine learning for predictive maintenance
 
-The goal is to support better decision-making and optimize software development workflows.
 
 ## Key Features
 - Sprint velocity trend and performance analysis
